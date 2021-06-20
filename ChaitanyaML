@@ -1,0 +1,32 @@
+Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. 
+Machine learning focuses on the development of computer programs that can access data and use it to learn for themselves.
+The process of learning begins with observations or data, such as examples, direct experience, or instruction, in order to look for patterns in data and make better decisions in the future based on the examples that we provide. 
+The primary aim is to allow the computers learn automatically without human intervention or assistance and adjust actions accordingly.
+
+
+Types of Supervised Learning? :-
+1.Regression.
+  Types of Regression:
+    a.Linear Regression
+    b.Logistic Regression
+2.Classification.
+  Types of Classification:
+    a.Decision tree.
+    b.Logistic Regression.
+    c.Artificial Neural Network.
+    d.Random Forest.
+    e.Stochastic Gradient Descent.
+    f.Naive Bayes.
+    g.Support Vector Machine.
+    h.K-Nearest Neighbor
+
+
+Linear Regression is a machine learning algorithm based on supervised learning. 
+It performs a regression task. 
+Regression models a target prediction value based on independent variables. 
+It is mostly used for finding out the relationship between variables and forecasting. 
+Different regression models differ based on – the kind of relationship between dependent and independent variables, they are considering and the number of independent variables being used.
+Linear Regression is a machine learning algorithm based on supervised regression algorithm. 
+Regression models a target prediction value based on independent variables. It is mostly used for finding out the relationship between variables and forecasting. 
+Different regression models differ based on – the kind of relationship between the dependent and independent variables, they are considering and the number of independent variables being used.
+Logistic regression is basically a supervised classification algorithm. In a classification problem, the target variable(or output), y, can take only discrete values for a given set of features(or inputs), X.
